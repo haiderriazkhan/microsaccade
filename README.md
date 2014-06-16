@@ -12,6 +12,6 @@ Haider Riaz - haider.riaz@mail.mcgill.ca
 McIntyre Medical Building Room 1225  
 Department of Physiology, McGill University  
 
-1. Harrington et al. “The Effect of Microsaccades on the Correlation between Neural Activity and Behavior in Middle Temporal, Ventral Intraparietal, and Lateral Intraparietal Areas”. The Journal of Neuroscience 29 (18), 5793–5805 (2009).
+1- Harrington et al. “The Effect of Microsaccades on the Correlation between Neural Activity and Behavior in Middle Temporal, Ventral Intraparietal, and Lateral Intraparietal Areas”. The Journal of Neuroscience 29 (18), 5793–5805 (2009).
 
 
