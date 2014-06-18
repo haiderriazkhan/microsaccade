@@ -1,14 +1,15 @@
 % Function for detecting microsaccades from a time series of eye movements.
 %
-% About the Detection Algorithm:
-% The function defines an eye movement to be a microsaccade when the speed 
-% crosses 8 deg/s, it is between 10 and 300 ms in duration, starts at least 
-% 20 ms after any previous microsaccade, has a minimum length of 0.05 
-% degrees, and the eye direction exceeds no more than 30 degrees
-% for each 5 ms cut of the total time period of the microsaccade.
+% Inputs:
+%    EyeDeg   - Time series of eye movements
+%    SAMPLING - The sampling rate of the time series of eye movements.
 %
-% Also computes peak velocity and amplitude of the microsaccades.
-%
+% Outputs:
+%    microsaccades - Column one: Time of onset of microsaccades
+%                    Column two: Time at which the microsaccdes ended
+%                    Column three: Peak velocity of microsaccades
+%                    Column four: Peak amplitude of microsaccades
+%                    
 % Haider Riaz - haider.riaz@mail.mcgill.ca
 % McIntyre Medical Building Room 1225
 % Department of Physiology, McGill University
