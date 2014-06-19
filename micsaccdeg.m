@@ -6,7 +6,7 @@
 %
 % Outputs:
 %    microsaccades - Column one: Time of onset of microsaccades
-%                    Column two: Time at which the microsaccdes ended
+%                    Column two: Time at which the microsaccdes terminate
 %                    Column three: Peak velocity of microsaccades
 %                    Column four: Peak amplitude of microsaccades
 %                    
