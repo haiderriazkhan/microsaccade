@@ -8,7 +8,7 @@ The algorithm defines an eye movement to be a microsaccade when the speed crosse
 
 The algorithm also computes peak velocity and amplitude of the microsaccades.  
 
-Haider Riaz - haider.riaz@mail.mcgill.ca  
+Haider Riaz Khan - haider.riaz@mail.mcgill.ca  
 McIntyre Medical Building Room 1225  
 Department of Physiology, McGill University  
 
