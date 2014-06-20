@@ -14,7 +14,7 @@
 % McIntyre Medical Building Room 1225
 % Department of Physiology, McGill University
 %
-% Created by Haider Riaz 2013.
+% Created by Haider Riaz Khan 2013.
 
 
 
