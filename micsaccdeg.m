@@ -3,13 +3,22 @@
 % Inputs:
 %    EyeDeg   - Time series of eye movements
 %    SAMPLING - The sampling rate of the time series of eye movements.
+<<<<<<< HEAD
 %
 % Outputs:
 %    microsaccades - Column one: Time of onset of microsaccades
 %                    Column two: Time at which the microsaccdes terminate
 %                    Column three: Peak velocity of microsaccades
 %                    Column four: Peak amplitude of microsaccades
+=======
+>>>>>>> 141e434895aab2869a6e3c4f181e99a483e7065c
 %
+% Outputs:
+%    microsaccades - Column one: Time of onset of microsaccades
+%                    Column two: Time at which the microsaccdes terminate
+%                    Column three: Peak velocity of microsaccades
+%                    Column four: Peak amplitude of microsaccades
+%                    
 % Haider Riaz - haider.riaz@mail.mcgill.ca
 % McIntyre Medical Building Room 1225
 % Department of Physiology, McGill University
@@ -74,8 +83,14 @@ while(i<=N)
     
     
 end
+<<<<<<< HEAD
 
 microsaccades = [onset , finish , vpeak , ampl];
 
 end
 
+=======
+    
+    
+    
+>>>>>>> 141e434895aab2869a6e3c4f181e99a483e7065c
